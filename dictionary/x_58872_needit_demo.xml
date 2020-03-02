@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Demo" max_length="40" name="x_58872_needit_demo" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Dept" label="Dept" max_length="40" name="u_dept" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Short description" label="Short description" max_length="40" name="u_short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=What needed" label="What needed" max_length="40" name="u_what_needed" type="string"/>
+    </element>
+</database>

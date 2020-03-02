@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_what_needed" table="x_58872_needit_needit" version="3">
+        <sys_choice_set action="DELETE">
+            <element>u_what_needed</element>
+            <name>x_58872_needit_needit</name>
+            <sys_class_name/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id/>
+            <sys_mod_count/>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope/>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2020-02-27 09:35:06</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application/>
+        <file_path/>
+        <instance_id>e078f5c3dba644900ae3ac44d496190b</instance_id>
+        <instance_name>dev98216</instance_name>
+        <name>sys_choice_x_58872_needit_needit_u_what_needed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="u_what_needed" table="x_58872_needit_needit" version="3"><sys_choice_set action="DELETE"><element>u_what_needed</element><name>x_58872_needit_needit</name><sys_class_name/><sys_created_by/><sys_created_on/><sys_id/><sys_mod_count/><sys_name/><sys_package/><sys_policy/><sys_scope/><sys_update_name/><sys_updated_by/><sys_updated_on>2020-02-27 09:35:06</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-429457270</payload_hash>
+        <record_name>Task.u_what_needed</record_name>
+        <reverted_from/>
+        <source>ef4295bf2f0b08502359de1a2799b6f7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>dhanjay.bhardwaj</sys_created_by>
+        <sys_created_on>2020-02-27 09:35:06</sys_created_on>
+        <sys_id>dc188b582f9b88502359de1a2799b663</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17085ffec8c0000001</sys_recorded_at>
+        <sys_updated_by>dhanjay.bhardwaj</sys_updated_by>
+        <sys_updated_on>2020-02-27 09:35:06</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>58188b58379b88500ab2cf2fef583d63</update_guid>
+        <update_guid_history>58188b58379b88500ab2cf2fef583d63:-429457270,54188b585a9b885092b63fbb10173a60:-915848390,14188b58189b8850eaa6f52f3ea2755d:367156690,d0188b58139b88503affabeacb897b5a:-1223568115,90188b58389b8850fc294feb21253f57:1500617887,50188b58079b8850fc9d0fbb69d16154:1827197514,10188b58e79b8850490e60fec4645951:-2088659708,a13211bfc50b085007f2ff4bdc59ecc0:140605419,653211bfe30b08509fec1b45850bc6bc:-915848390,253211bf230b08505a36374c329439b9:-567701384,e13211bf1b0b0850a5831b7ab5cd73b6:-1423691141,a13211bf6a0b0850f4dab49a76768bb3:-709049971,613211bfb80b0850091b41157f8935b0:-1389990280,213211bfd00b0850f7c8359a9833faad:221069324,ed3211bfbe0b0850f47f344b250515a9:115963504,ad3211bf050b08509868591bf91b52a6:-495418659,4df2ba13ff83c450e5e8f767ef894fe1:0,a2e2f6133d83c450fb704874c78d1f63:515638267,66e2f6130a83c450a479af4f3cb1505f:-915848390,26e2f613b783c450a6b35acb1d57b25c:-567701384,e2e2f613d083c450273d0e382fec9859:-1423691141,a2e2f6134883c450b06fc79ac5840b56:-709049971,62e2f6133483c4502ba2b3b90140b053:-1389990280,22e2f613a483c450633755b3db5df650:221069324,2ae2f6138783c450c3524f5188167940:115963504,e6e2f6139983c450db319b664deca93d:-495418659,7043238c98c30c10473099e26c349855:0,8b336f4c07c30c1040ab9ae2281eda4b:-496941446,4f336f4c96c30c101cb76f4026ba9947:-915848390,0f336f4ce4c30c101fff6bfa3e3f8844:-567701384,fa336f4c3ec30c1008c82a45ca12ec41:-1423691141,ba336f4cfcc30c10de66b3360a00913e:-709049971,7a336f4c2ec30c1045227c162092953b:-1389990280,3a336f4c73c30c10e1d45dcc279c7d38:221069324,f6336f4c3dc30c1088e29e73262b6c35:115963504,b6336f4c9cc30c1012059f2b3d81ab32:-495418659,cd2174132a724810f888a3ec7d5c1065:0,fe11b0131d724810fb51a5e7802fa88e:-429457270,fa11b01387724810ba4e1a192cadb18b:1264701252,ba11b013a572481080486a56c0f02e88:-1001554480,7a11b013c0724810548f140384cefc85:1291032590,3a11b013207248108a56d3d7c786fb82:1977964177,f611b013757248107c9bad3bc2699e7f:-1752887133,b611b01362724810115aa4c62de3277c:103642638,7611b0130c724810444e535999ec9d79:1044619342,ddc7c443a0720810d4f735d199ae8135:0,72b704439b72081006ed07a891736d74:-429457270,7eb704438c720810b7caf8419eeed570:1264701252,3eb704437e720810abae9a2f610a316d:-1001554480,fab70443837208100ff46f3404bcac6a:1291032590,bab7044368720810fb641a133bc0c367:1977964177,7ab70443ad7208101271944f80ef1864:-1752887133,3ab70443847208101ef5289a8b45d961:103642638,f6b70443e7720810120e359f34e32f5e:1044619342,d9985fb698bec4109d42fbfa7d6c0cf8:-758041973</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>dhanjay.bhardwaj</sys_created_by>
+        <sys_created_on>2020-02-27 09:35:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>96180f582f9b88502359de1a2799b6c3</sys_id>
+        <sys_metadata>96180f582f9b88502359de1a2799b6c3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_what_needed</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_58872_needit_needit_u_what_needed</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_58872_needit_needit_u_what_needed">dc188b582f9b88502359de1a2799b663</sys_update_version>
+        <sys_updated_by>dhanjay.bhardwaj</sys_updated_by>
+        <sys_updated_on>2020-02-27 09:35:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
